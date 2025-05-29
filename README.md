@@ -68,4 +68,4 @@ If you have any questions or suggestions, please contact sagiia1997@gmail.com.
 
 ![About](Images/About.png)
 
-![Help](Images/Help.png)
+![Tutorial](Images/Tutorial.png)
