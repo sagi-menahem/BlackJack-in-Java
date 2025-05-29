@@ -1,44 +1,43 @@
-# Blackjack Game
+# Blackjack Game in Java
 
-Welcome to the exciting world of Blackjack! This Java Swing-based Blackjack game allows you to enjoy the thrill of the casino from the comfort of your computer.
+Welcome to the exciting world of Blackjack! This project implements a classic Blackjack game using Java Swing, allowing you to enjoy a casino experience directly from your computer.
 
 ![Menu](Images/Menu.png)
 
 ## Table of Contents
 
-- [Game Overview](#game-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [About the Game](#about-the-game)
-- [Screenshots](#screenshots)
+* [Game Overview](#game-overview)
+* [Features](#features)
+* [Installation](#installation)
+* [How to Play](#how-to-play)
+* [About the Game](#about-the-game)
+* [Screenshots](#screenshots)
 
 ## Game Overview
 
-Blackjack, also known as 21, is one of the most popular card games in the world. The objective is simple: beat the dealer by having a hand value closer to 21 without exceeding it. This Blackjack game adheres to the standard rules of the game, including:
-
-- A standard deck of 52 playing cards with ranks (Ace, 2, 3, ..., King) and suits (Hearts, Diamonds, Clubs, Spades).
-- Card values: Number cards are worth their face value, face cards (Jack, Queen, King) are worth 10 points each, and Aces can be worth 1 or 11 points.
-- Dealing two cards to the player and two cards to the dealer, one face-up and one face-down.
-- Player decisions: "Hit" (take another card) or "Stand" (keep the current hand).
-- Dealer's hidden card is revealed when the player stands, and the dealer must hit until their hand value is at least 17.
-- Determining the winner based on final hand values.
+Blackjack, also known as 21, is a popular card game where the goal is to beat the dealer by obtaining a hand with a value closer to 21 without exceeding it. The game is played with a standard 52-card deck. The card values are: number cards (2-10) are worth their face value, face cards (J, Q, K) are worth 10 points, and an Ace can be considered as 1 or 11 points, depending on the current hand.
 
 ## Features
 
-- A user-friendly Java Swing GUI for an immersive gaming experience.
-- Realistic card graphics and animations.
-- Interactive buttons for actions (Hit, Stand, Double).
-- Player's balance tracking.
-- Player's name input.
-- In-game tutorials (How to Play, About the Game).
+* User-friendly Graphical User Interface (GUI) based on Java Swing.
+* Visual display of cards with simple dealing animations.
+* Interactive buttons for player actions (Hit, Stand, and possibly Double Down).
+* Tracking of the player's money balance.
+* Option to enter the player's name.
+* In-game messages and explanations.
 
 ## Installation
 
-1. Open the project in your favorite Java IDE.
+1. Make sure you have **Java Development Kit (JDK)** version 8 or higher installed on your system.
 
-2. Compile and run the Main.java file to start the game.
+2. Clone the project from GitHub to your computer.
 
+3. Open the project in an Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
+
+4. Navigate to the main game file.
+
+5. Compile and run the Main.java file to start the game.
+   
 ## How to Play
 
 1. Launch the game and enter your name when prompted.
@@ -55,7 +54,7 @@ Blackjack, also known as 21, is one of the most popular card games in the world.
 
 ## About the Game
 
-This Blackjack game project was created by Sagi Menahem in 2016 as a pre-army project to learn programming in Java and explore the principles of Swing GUI development.
+This Blackjack game project was created by Sagi Menahem in 2016 as a pre-army project to learn programming in Java and explore the principles of Swing GUI development. The code has been recently improved and updated.
 
 If you have any questions or suggestions, please contact sagiia1997@gmail.com.
 
