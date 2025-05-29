@@ -12,6 +12,7 @@ Welcome to the exciting world of Blackjack! This project implements a classic Bl
 * [How to Play](#how-to-play)
 * [About the Game](#about-the-game)
 * [Screenshots](#screenshots)
+* [Author](#author)
 
 ## Game Overview
 
@@ -69,3 +70,7 @@ If you have any questions or suggestions, please contact sagiia1997@gmail.com.
 ![About](Images/About.png)
 
 ![Tutorial](Images/Tutorial.png)
+
+## Author
+
+Sagi Menahem.
